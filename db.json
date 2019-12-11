@@ -1,0 +1,28 @@
+{
+    "card-curiosidades":  [
+          {"id":1,
+              "titulo":"Como faço para ter proteínas?",
+              "texto": "Quando você se torna vegetariano ou vegano não vão parar de perguntar mas e a proteína, da onde você vai tirar. Ao contrário do que muita pessoas pensam as proteínas vem das plantas também, por isso é muito difícil alguma pessoa ficar com falta de proteína no organismo.Fazendo uma alimentação vegetariana, é importante que seja rica em proteína vegetal, e balanceada em todos os nutrientes que estão presentes em alimentos como soja, feijão, lentilha, milho, ervilha, quinoa e trigo sarraceno. Além disso, também é possível optar pelo consumo de Levedura Nutricional, que é rica em em proteínas, fibras, vitaminas do complexo B e minerais."
+              
+          },  
+          {"id":2,
+              "titulo":"Mas como vou fazer receitas sem ovo?",
+              "texto": "Quando você se torna vegetariano ou vegano não vão parar de perguntar mas e a proteína, da onde você vai tirar. Ao contrário do que muita pessoas pensam as proteínas vem das plantas também, por isso é muito difícil alguma pessoa ficar com falta de proteína no organismo.Fazendo uma alimentação vegetariana, é importante que seja rica em proteína vegetal, e balanceada em todos os nutrientes que estão presentes em alimentos como soja, feijão, lentilha, milho, ervilha, quinoa e trigo sarraceno. Além disso, também é possível optar pelo consumo de Levedura Nutricional, que é rica em em proteínas, fibras, vitaminas do complexo B e minerais."
+          },
+          {
+              "id":3,
+              "titulo":"Sabia que existe inseto no seu danone?",
+              "texto": "Muitos corantes de morango são feitos a base de insetos que se alimentam da seiva das plantas no qual a cor é avermelhada. Esse corante é chamado de Cochonilha que são necessários cerca de 70.000 insetos esmagados e fervidos para produzir apenas 450 gramas deste corante.Esse corante é muito utilizado em doces, bebidas, em tintas e até cosméticos."
+          },
+          {
+              "id":4,
+              "titulo":"Produtos de limpeza",
+              "texto": "Você sabia que muitos produtos de limpeza são feito a base de derivados de animais, como a gordura no amaciante e até mesmo no sabão. Mas algumas empresas não usam, então temos que sempre que ficar de olho no rótulo dos produtos. Mas também podemos substituir com coisas simples que temos em casa como o vinagre é ótimo para limpeza."
+          },
+          {
+              "id":5,
+              "titulo":"E na hora do banho o que vou usar?",
+              "texto": "Como na limpeza da casa temos que tomar cuidado com os produtos de higiene pessoal. Alguns sabonetes usam a gordura dos animais por exemplo. Mas hoje em dia temos muitas marcas que não usam nada de origem animal e que nem testam e a melhor parte que são em conta."
+          }
+  ]
+  }
